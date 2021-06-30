@@ -1,0 +1,21 @@
+.input {
+  position: relative;
+  margin: 0px 0px 0px 80px;
+  font-weight: bold;
+  padding-top: 70px;
+  color: white;
+}
+.inputbox {
+  padding: 10px;
+  font-weight: bold;
+  font-size: large;
+  width: 30%;
+}
+.primebutton {
+  padding: 10px;
+  font-weight: bold;
+  font-size: large;
+}
+.primebutton:hover {
+  cursor: pointer;
+}
